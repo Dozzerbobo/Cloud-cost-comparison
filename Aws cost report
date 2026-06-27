@@ -1,0 +1,31 @@
+# AWS Cost Report
+
+## Services Selected
+
+- Amazon EC2 (Linux)
+- Amazon S3 Standard Storage
+
+## Application Specifications
+
+- 2 vCPUs
+- 4 GB RAM
+- 100 GB Storage
+- 500 GB Monthly Data Transfer
+
+## Estimated Monthly Cost
+
+(Insert your AWS calculator total here.)
+
+## Networking
+
+AWS charges for data transferred between Availability Zones and outbound internet traffic according to its pricing model.
+
+## Discount Options
+
+AWS provides:
+
+- Savings Plans
+- Reserved Instances
+- Spot Instances
+
+These options help reduce long-term infrastructure costs.
