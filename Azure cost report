@@ -1,0 +1,33 @@
+# Azure Cost Report
+
+## Services Selected
+
+- Azure Virtual Machine
+- Azure Storage Account
+
+## Application Specifications
+
+- 2 vCPUs
+- 4 GB RAM
+- 100 GB Storage
+- 500 GB Monthly Data Transfer
+
+## Estimated Monthly Cost
+
+Linux VM:
+(Insert Linux estimate.)
+
+Windows VM with Azure Hybrid Benefit:
+(Insert Windows estimate.)
+
+## Networking
+
+Azure charges for outbound bandwidth and Availability Zone data transfers based on region.
+
+## Discount Options
+
+Azure provides:
+
+- Reserved VM Instances
+- Azure Hybrid Benefit
+- Spot Virtual Machines
