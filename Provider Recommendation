@@ -1,0 +1,7 @@
+# Provider Recommendation
+
+For a Linux-based startup hosting a small web application, AWS is a suitable choice because it offers competitive pricing for Linux EC2 instances, flexible storage options through Amazon S3, and several discount mechanisms such as Savings Plans and Reserved Instances. These features help startups reduce operational costs while maintaining scalability as the application grows.
+
+For organizations that rely heavily on Microsoft technologies, Azure is often the better option. Azure integrates seamlessly with Windows Server, Active Directory, Microsoft 365, and other Microsoft services. Organizations with existing Windows Server licenses can further reduce costs by using Azure Hybrid Benefit, making Azure particularly cost-effective for Windows-based workloads.
+
+Both cloud providers offer reliable infrastructure, strong security, and global availability. The final choice depends on the business environment and technical requirements. Linux-first businesses may benefit more from AWS pricing, while Microsoft-centric enterprises can maximize value with Azure's licensing advantages and ecosystem integration.
