@@ -1,0 +1,46 @@
+# AWS vs Azure Cost Comparison
+
+## Compute Costs
+
+AWS and Azure provide similar virtual machine configurations suitable for hosting a small web application.
+
+AWS uses EC2 instances while Azure uses Virtual Machines.
+
+## Storage Costs
+
+AWS uses Amazon S3.
+
+Azure uses Azure Storage Accounts.
+
+Both provide scalable object storage suitable for application files and backups.
+
+## Networking
+
+Both providers charge for outbound internet traffic.
+
+Data transferred between Availability Zones also incurs charges depending on the region.
+
+## Discount Comparison
+
+AWS
+
+- Savings Plans
+- Reserved Instances
+- Spot Instances
+
+Azure
+
+- Reserved VM Instances
+- Azure Hybrid Benefit
+- Spot Virtual Machines
+
+## Cost Effectiveness
+
+For Linux workloads, AWS is often a strong choice due to competitive compute pricing.
+
+For Windows workloads, Azure becomes more attractive when Azure Hybrid Benefit is used because existing Windows Server licenses reduce licensing costs.
+
+## Cost Optimization Strategies
+
+1. Use Reserved Instances or Savings Plans for long-term workloads.
+2. Enable auto-scaling and regularly review resource usage to avoid paying for idle resources.
